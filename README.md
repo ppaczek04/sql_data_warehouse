@@ -106,4 +106,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm a Computer Science at Cracow studying Data Analytics and Data Engineering, hope you check my other repositories as well, have a nice day!
+Hi there! I'm a Computer Science student from Poland studying Data Analytics and Data Engineering. I made this project to improve my understanding of creating large-scale data solutions on a fairly easy to understand example. Hope you find value and enjoyment in my project. Have a nice day!
